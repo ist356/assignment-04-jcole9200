@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jamie Cole
+Sudent Email:  jcole05@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Reflecting on this assignment, I realized several key takeaways and areas for improvement. First, I deepened my understanding of data manipulation and user interfaces using pandas and Streamlit. By building helper functions like get_column_names and get_unique_values, I became more comfortable navigating pandas' capabilities for filtering and exploring datasets. I practiced working with different file types (CSV, Excel, and JSON), learning how to efficiently load them using pandas. The key lesson was that handling various formats requires an understanding of their structure and the appropriate function (like pd.read_csv for CSVs and pd.read_json for JSONs). One area of confusion for me was matching column data types in pandas to NumPy types, such as object, int64, float64. While the functions work,I could use more clarity in understanding why pandas uses certain types over others and how this impacts operations. Furthermore, I need more practice with Streamlit, especially understanding how to create more dynamic dashboards with features like toggles, checkboxes, and user inputs. Diving deeper into Streamlit’s documentation would help me make more complex applications.
